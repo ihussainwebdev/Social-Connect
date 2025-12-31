@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="200dp"
+    android:viewportWidth="200"
+    android:viewportHeight="200">
+    
+    <!-- Cloud -->
+    <path
+        android:fillColor="#E8E8E8"
+        android:pathData="M160,95 C160,77.3 145.7,63 128,63 C126.5,63 125,63.1 123.5,63.3 C117.8,48.5 103.5,38 87,38 C65.5,38 48,55.5 48,77 C48,78.7 48.1,80.3 48.3,82 C36.5,84.5 28,95 28,107 C28,121.4 39.6,133 54,133 L146,133 C161.5,133 174,120.5 174,105 C174,98 171,91.5 166,87 C163.5,90 160,95 160,95 Z" />
+    
+    <!-- WiFi Icon with X -->
+    <path
+        android:fillColor="#667eea"
+        android:pathData="M100,70 C85,70 71,76 60,86 L68,94 C77,86 88,81 100,81 C112,81 123,86 132,94 L140,86 C129,76 115,70 100,70 Z" />
+    <path
+        android:fillColor="#667eea"
+        android:pathData="M100,90 C90,90 81,94 74,100 L82,108 C87,104 93,101 100,101 C107,101 113,104 118,108 L126,100 C119,94 110,90 100,90 Z" />
+    <path
+        android:fillColor="#667eea"
+        android:pathData="M100,110 C95,110 91,112 88,116 L100,128 L112,116 C109,112 105,110 100,110 Z" />
+    
+    <!-- X Mark -->
+    <path
+        android:fillColor="#FF6B6B"
+        android:strokeWidth="6"
+        android:strokeColor="#FF6B6B"
+        android:pathData="M75,145 L125,175 M125,145 L75,175" />
+    
+    <!-- Sad face -->
+    <path
+        android:fillColor="#667eea"
+        android:pathData="M85,160 C85,157 87,155 90,155 C93,155 95,157 95,160 C95,163 93,165 90,165 C87,165 85,163 85,160 Z" />
+    <path
+        android:fillColor="#667eea"
+        android:pathData="M105,160 C105,157 107,155 110,155 C113,155 115,157 115,160 C115,163 113,165 110,165 C107,165 105,163 105,160 Z" />
+    <path
+        android:fillColor="none"
+        android:strokeWidth="3"
+        android:strokeColor="#667eea"
+        android:pathData="M85,180 Q100,172 115,180" />
+</vector>
